@@ -9,7 +9,7 @@ library(glmnet)
 # eta2      learn rate for OnlineSIM (usually half of eta1 because it split the sample in two sets)
 # card      number of alternative hyperparameters for each batch
 # kappa     decay rate in IHT-type method
-# Con       penalty coefficient in Massart-type IC (ADIHT, ADLasso, RenewIHT), OSIM enjoy Con/3
+# Con       penalty coefficient in Massart-type IC 
 # myseed    your seed
 #
 #
