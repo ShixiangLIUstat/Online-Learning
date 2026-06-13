@@ -19,6 +19,7 @@ This repository contains the R code for reproducing the simulation studies and r
   Simulation code for high-dimensional online Poisson regression under two online settings:
   1. fixed sample size for each batch;
   2. exponentially increasing sample size across batches.
+ 
   The corresponding results are reported in the Supplementary Material.
 
 - **poisson plot.R**  
