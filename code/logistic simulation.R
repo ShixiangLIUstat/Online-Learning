@@ -16,7 +16,7 @@ library(glmnet)
 # eta2      learn rate for OSIM
 # card      number of alternative hyperparameters for each batch
 # kappa     decay rate in IHT-type method
-# Con       penalty coefficient in Massart-type IC (ADIHT, ADLasso, RenewIHT), OSIM enjoy Con/3
+# Con       penalty coefficient in Massart-type IC 
 # myseed    your seed
 #
 OnlineLogistic = function(n = 100, p = 1000, s=10, AR = 0.5,
