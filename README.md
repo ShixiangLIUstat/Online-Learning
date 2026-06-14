@@ -4,7 +4,7 @@ This repository contains the R code for reproducing the simulation studies and r
 
 ## File Description
 
-- **funs.R**  
+- **code/funs.R**  
   Implementation of the online learning methods considered in the paper, including AD-IHT, AD-Lasso, Renew-Lasso, Renew-SIM, and RADAR-GLM.
 
 - **logistic simulation.R**  
