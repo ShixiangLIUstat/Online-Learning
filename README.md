@@ -1,4 +1,4 @@
-# High-dimensional-online-learning-via-asynchronous-decomposition
+# High-dimensional online learning via asynchronous decomposition
 
 This repository contains the R code for reproducing the simulation studies and real-data analyses presented in the manuscript "High-dimensional online learning via asynchronous decomposition", available at https://arxiv.org/abs/2603.20696
 
