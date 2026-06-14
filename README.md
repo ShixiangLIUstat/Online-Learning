@@ -31,16 +31,16 @@ This repository contains the R code for reproducing the simulation studies and r
 - **code/Financial analysis.R**  
   Main script for the financial data analysis, including data preprocessing, parallel computation, and result aggregation.
 
-- **data/logitfix0424.RData**
+- **data/logitfix0424.RData** 
   Simulation results for logistic regression with fixed sample size for each batch.
 
-- **data/logitincrease0418.RData**
+- **data/logitincrease0418.RData** 
   Simulation results for logistic regression with exponentially increasing sample size across batches. 
 
-- **data/Poissonfix0422.RData**
+- **data/Poissonfix0422.RData** 
   Simulation results for Poisson regression with fixed sample size for each batch.
 
-- **data/Poissonincrease0423.RData**
+- **data/Poissonincrease0423.RData** 
   Simulation results for Poisson regression with exponentially increasing sample size across batches. 
 
 
